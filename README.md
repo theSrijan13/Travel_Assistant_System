@@ -40,7 +40,7 @@ Run the Streamlit app:
 streamlit run app.py
 Interact with the chatbot via the Streamlit interface in your browser.
 
-Project Structure
+## Project Structure
 travel-assistant-chatbot/
 │
 ├── app.py                   # Main Streamlit application
